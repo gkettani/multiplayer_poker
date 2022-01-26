@@ -1,7 +1,7 @@
 # Local Multiplayer poker game
 
 This is a local multiplayer poker game that can be played by 2 to 8 people.
-There some features of real poker which are not included in this game.
+Some real poker features are not included in this game.
 
 >**Note :** This game and the code are in french!
 
