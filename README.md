@@ -13,7 +13,7 @@ Execute the poker.jar file in the src folder
 
 ### Server side
 1. Once the application launched click on create a new server and fill all the parameters then hit create a new game
-<<<<<<< HEAD
+
 ![launch server demo](images/demo1.png)
 ![launch server demo](images/demo2.png)
 2. Once all players have joined the game click Start and the game should start
@@ -37,4 +37,4 @@ Execute the poker.jar file in the src folder
 1. Once the application launched click on join a game
 2. Then enter your name or nickname and enter the ip adress of the server
 3. Wait for the host to start the game and enjoy
->>>>>>> 05bc88d8152a3e1f83434e8c44d1975265d3b018
+
